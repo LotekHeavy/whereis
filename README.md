@@ -1,4 +1,6 @@
 whereis
 =======
 
-Minetest whereis https://forum.minetest.net/viewtopic.php?f=11&amp;t=5932
+Minetest Mod "whereis" taken from BrandonReese:
+https://forum.minetest.net/viewtopic.php?f=11&t=5932 
+
